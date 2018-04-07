@@ -2,4 +2,5 @@ key.txt
 .ipynb_checkpoints/
 .DS_Store
 imdb.ipynb
+ref/
 GoogleNews-vectors-negative300.bin 
