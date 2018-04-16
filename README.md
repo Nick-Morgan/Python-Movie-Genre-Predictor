@@ -4,28 +4,26 @@
 
 ---
 
-### Final Project Website:
-https://nick-morgan.github.io/109b_final/
+### Final Project Website: https://nick-morgan.github.io/109b_final/
 
 ---
 
-#CONFIRM NAMING AND ORGANIZATION BELOW BEFORE FINAL SUBMISSION
+# CONFIRM NAMING AND ORGANIZATION BELOW BEFORE FINAL SUBMISSION
 
-### Project Organization:
-This repo is organized in the following way:
+### Project Repository Organization:
 - **data** directory - all the data we collected scraping as well as plot
 transformation arrays.
 - **docs** directory - final project website hosted by GitHub Pages at the url
-above.
-- **project_description** directory - administrative project-specific documents.
-- **submissions** directory - project milestone submission documents folder.
+above
+- **project_description** directory - administrative project-specific documents
+- **submissions** directory - project milestone submission documents folder
 - **.gitignore** - self-explanatory
 - **EDA.ipynb** - milestone 3 EDA plots and basic analysis
-- **Modeling.ipynb** - primary modeling and analysis notebook.
+- **Modeling.ipynb** - primary modeling and analysis notebook
 - **bag-of-words_plot_tranfsormations.ipynd** - bag-of-words with TFIDF
-transformation of TMDB and IMDB plots.
+transformation of TMDB and IMDB plots
 - **word2vec_plot_transformations.ipynb** - word2vec tranformations of TMDB and
-IMDB plots.
+IMDB plots
 
 All data descriptions, EDA, modeling, and analysis is described in details at
 the final project website listed above.
