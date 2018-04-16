@@ -22,6 +22,7 @@ above
 - **Modeling.ipynb** - primary modeling and analysis notebook
 - **bag-of-words_plot_tranfsormations.ipynd** - bag-of-words with TFIDF
 transformation of TMDB and IMDB plots
+- **movie_scraper_and_prep.ipynb** - data collection and initial prep
 - **word2vec_plot_transformations.ipynb** - word2vec tranformations of TMDB and
 IMDB plots
 
