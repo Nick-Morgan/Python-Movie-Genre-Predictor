@@ -6,3 +6,4 @@ ref/
 GoogleNews-vectors-negative300.bin.gz
 .idea/
 Modeling - Nick-Copy1.ipynb
+data/resultsDict.sav
