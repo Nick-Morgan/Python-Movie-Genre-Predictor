@@ -6,11 +6,13 @@
 
 ### Project Repository Organization:
 - **data** directory - all the data we collected scraping as well as plot
-transformation arrays.
+transformation arrays
 - **admin** directory - administrative project-specific documents
-- **submissions** directory - project milestone submission documents folder
+- **submissions** directory - project milestone and final submission documents
 - **.gitignore** - self-explanatory
-- **eda_and_plot_transformations.ipynb** - milestone 3 EDA plots and basic analysis,
+- **eda_and_plot_transformations.ipynb** - milestone 3 EDA plots and basic analysis
+- **future_word_LDA.ipynb** - notebook to explore possibilities of LDA
+clustering on our dataset
 as well as bag-of-words TFIDF and word2vec plot transformations for modeling
 - **modeling_analysis.ipynb** - primary modeling and analysis notebook
 - **movie_scraper_and_prep.ipynb** - data collection and initial prep
