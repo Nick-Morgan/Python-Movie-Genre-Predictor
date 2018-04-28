@@ -10,10 +10,9 @@ transformation arrays
 - **admin** directory - administrative project-specific documents
 - **submissions** directory - project milestone and final submission documents
 - **.gitignore** - self-explanatory
-- **eda_and_plot_transformations.ipynb** - milestone 3 EDA plots and basic analysis
-- **future_word_LDA.ipynb** - notebook to explore possibilities of LDA
+- **eda_and_plot_transformations.ipynb** - milestone 3 EDA plots and basic analysis as well as bag-of-words TFIDF, word2vec, and doc2vec plot transformations for modeling
+- **future_work_LDA.ipynb** - notebook to explore possibilities of LDA
 clustering on our dataset
-as well as bag-of-words TFIDF and word2vec plot transformations for modeling
 - **modeling_analysis.ipynb** - primary modeling and analysis notebook
 - **movie_scraper_and_prep.ipynb** - data collection and initial prep
 
