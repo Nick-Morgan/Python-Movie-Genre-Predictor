@@ -7,7 +7,6 @@
 ### Project Repository Organization:
 - **data** directory - all the data we collected scraping as well as plot
 transformation arrays
-- **admin** directory - administrative project-specific documents
 - **submissions** directory - project milestone and final submission documents
 - **.gitignore** - self-explanatory
 - **eda_and_plot_transformations.ipynb** - milestone 3 EDA plots and basic analysis as well as bag-of-words TFIDF, word2vec, and doc2vec plot transformations for modeling
