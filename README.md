@@ -23,3 +23,13 @@ final report found in the submissions directory.
 - Nicholas Morgan
 - Amay Umradia
 - Charles Webb
+
+---
+
+### Navigating This Repository:
+The manipulated dataframes and arrays are all saved in the `data` folder, which allows for each notebook to be run independently of the others. If you wish to follow along in the order of our report, go through the notebooks in the following order:
+
+1) **movie_scraper_and_prep.ipynb**
+2) **eda_and_plot_transformations.ipynb**
+3) **modeling_analysis.ipynb**
+4) **future_work_LDA.ipynb**
